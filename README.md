@@ -5,9 +5,12 @@
   <br><br>
   Whether it’s coming up with new ideas, improving how something works, or trying out new tools, I’m always curious and excited to learn more 🚀.
 </p>
-<a href="https://www.linkedin.com/in/gurtajrattan" target="_blank">
+<p align="center">
+  <a href="https://www.linkedin.com/in/gurtajrattan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+  </a>
+</p>
+
 
 ---
 
@@ -32,7 +35,7 @@
 
 ---
 
-### 📈 GitHub Stats 📈
+<h2 align="center">GitHub Stats 📈</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurtajrattan&layout=compact&theme=radical" alt="Top Languages" />
