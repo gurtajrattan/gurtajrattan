@@ -46,5 +46,5 @@
 </p>
 
 <p align="center">
-  <i>“Stay active, stay curious.” 🏀💡</i>
+  <i>“No such thing as a life that's better than yours” 🌟</i>
 </p>
